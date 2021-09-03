@@ -6,3 +6,4 @@ I am Yves aka Tix3Dev! I am a 15 year old computer science/engineering enthusias
 - 🌱 I’m currently learning OS Development
 - 📫 How to reach me: You can DM me on discord: Tix3Dev#0369
 - ⚡ Fun fact: I like climbing :D
+- 👀 ![](https://komarev.com/ghpvc/?username=Tix3Dev&color=9cbdda)
